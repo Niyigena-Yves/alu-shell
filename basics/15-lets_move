@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 find . -name '[A-Z]*' -exec mv -t /tmp/u/ {} + 2>/dev/null
+=======
+mv [A-Z]* /tmp/u
+>>>>>>> 5fc239558da974b6c67be51fd6ebece2d3220aa9
